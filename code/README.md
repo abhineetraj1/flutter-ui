@@ -4,6 +4,9 @@
 |--|----|:---:|
 | 1 | Timer | [code](Watch.dart) |
 | 2 | CarApp | [code](CarApp.dart) |
+| 3 | Article UI | [code](ArticleUI.dart)|
+| 4 | Blog App | [code](BlogApp.dart) |
+| 5 | Num pad | [code](NumPad.dart) |
 
 ## Installation
 
