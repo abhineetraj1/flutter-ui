@@ -2,11 +2,15 @@
 
 | S.No. | Project name | code |
 |--|----|:---:|
-| 1 | Timer | [code](Watch.dart) |
-| 2 | CarApp | [code](CarApp.dart) |
-| 3 | Article UI | [code](ArticleUI.dart)|
-| 4 | Blog App | [code](BlogApp.dart) |
-| 5 | Num pad | [code](NumPad.dart) |
+| 1 | Article UI | [code](ArticleUI.dart) |
+| 2 | Blog App | [code](BlogApp.dart) |
+| 3 | Calender UI | [code](CalenderUI.dart) |
+| 4 | Car App | [code](CarApp.dart) |
+| 5 | Chat bot | [code](ChatBotUI.dart) |
+| 6 | Contact | [code](ContactApp.dart) |
+| 7 | Counter app | [code](CounterApp.dart) |
+| 8 | Num pad | [code](NumPad.dart) |
+| 9 | Watch | [code](Watch.dart) |
 
 ## Installation
 
