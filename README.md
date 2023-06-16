@@ -2,6 +2,20 @@
 *	These are basic flutter projects, created for exercising dart with material UI.
 *	Follow up [here]("/code")
 
+## Content
+
+| S.No. | Project name | code |
+|--|----|:---:|
+| 1 | Article UI | [code](code/ArticleUI.dart) |
+| 2 | Blog App | [code](code/BlogApp.dart) |
+| 3 | Calender UI | [code](code/CalenderUI.dart) |
+| 4 | Car App | [code](code/CarApp.dart) |
+| 5 | Chat bot | [code](code/ChatBotUI.dart) |
+| 6 | Contact | [code](code/ContactApp.dart) |
+| 7 | Counter app | [code](code/CounterApp.dart) |
+| 8 | Num pad | [code](code/NumPad.dart) |
+| 9 | Watch | [code](code/Watch.dart) |
+
 ## Installation
 
 1. **Install Flutter SDK:**
