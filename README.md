@@ -1,4 +1,5 @@
 # Flutter projects
+<img src="https://raw.githubusercontent.com/abhineetraj1/flutter-ui/main/ic.png" width="100%">
 *	These are basic flutter projects, created for exercising dart with material UI.
 *	Follow up [here]("/code")
 
@@ -15,6 +16,8 @@
 | 7 | Counter app | [code](code/CounterApp.dart) |
 | 8 | Num pad | [code](code/NumPad.dart) |
 | 9 | Watch | [code](code/Watch.dart) |
+| 10 | Music App | [code](code/MusicAppUI.dart) |
+| 11 | Navigation Drawer | [code](code/NavigationDrawerUI.dart) |
 
 ## Installation
 
