@@ -11,6 +11,8 @@
 | 7 | Counter app | [code](CounterApp.dart) |
 | 8 | Num pad | [code](NumPad.dart) |
 | 9 | Watch | [code](Watch.dart) |
+| 10 | Music App | [code](MusicAppUI.dart) |
+| 11 | Navigation Drawer | [code](NavigationDrawerUI.dart) |
 
 ## Installation
 
