@@ -18,6 +18,7 @@
 | 9 | Watch | [code](code/Watch.dart) |
 | 10 | Music App | [code](code/MusicAppUI.dart) |
 | 11 | Navigation Drawer | [code](code/NavigationDrawerUI.dart) |
+| 12 | Firebase Authentication | [code](code/FirebaseAuth.dart) |
 
 ## Installation
 
