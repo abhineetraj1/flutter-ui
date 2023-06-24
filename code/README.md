@@ -14,6 +14,8 @@
 | 10 | Music App | [code](MusicAppUI.dart) |
 | 11 | Navigation Drawer | [code](NavigationDrawerUI.dart) |
 | 12 | Firebase Authentication | [code](code/FirebaseAuth.dart) |
+| 13 | Slider Widget | [code](code/SliderWidget.dart) |
+| 14 | Quiz App | [code](code/QuizApp.dart) |
 
 ## Installation
 
