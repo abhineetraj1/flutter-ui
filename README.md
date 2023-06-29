@@ -21,8 +21,8 @@
 | 12 | Firebase Authentication | [code](code/FirebaseAuth.dart) |
 | 13 | Slider Widget | [code](code/SliderWidget.dart) |
 | 14 | Quiz App | [code](code/QuizApp.dart) |
-| 15 | Notepad | [code](Notepad.dart) |
-| 16 | RSVP form | [code](RSVPForm.dart) |
+| 15 | Notepad | [code](code/Notepad.dart) |
+| 16 | RSVP form | [code](code/RSVPForm.dart) |
 
 ## Installation
 
