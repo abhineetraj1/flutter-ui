@@ -14,15 +14,16 @@
 | 5 | Chat bot | [code](code/ChatBotUI.dart) |
 | 6 | Contact | [code](code/ContactApp.dart) |
 | 7 | Counter app | [code](code/CounterApp.dart) |
-| 8 | Num pad | [code](code/NumPad.dart) |
-| 9 | Watch | [code](code/Watch.dart) |
-| 10 | Music App | [code](code/MusicAppUI.dart) |
-| 11 | Navigation Drawer | [code](code/NavigationDrawerUI.dart) |
-| 12 | Firebase Authentication | [code](code/FirebaseAuth.dart) |
-| 13 | Slider Widget | [code](code/SliderWidget.dart) |
-| 14 | Quiz App | [code](code/QuizApp.dart) |
-| 15 | Notepad | [code](code/Notepad.dart) |
-| 16 | RSVP form | [code](code/RSVPForm.dart) |
+| 8 | News app | [code](code/NewsApp.dart) |
+| 9 | Num pad | [code](code/NumPad.dart) |
+| 10 | Watch | [code](code/Watch.dart) |
+| 11 | Music App | [code](code/MusicAppUI.dart) |
+| 12 | Navigation Drawer | [code](code/NavigationDrawerUI.dart) |
+| 13 | Firebase Authentication | [code](code/FirebaseAuth.dart) |
+| 14 | Slider Widget | [code](code/SliderWidget.dart) |
+| 15 | Quiz App | [code](code/QuizApp.dart) |
+| 16 | Notepad | [code](code/Notepad.dart) |
+| 17 | RSVP form | [code](code/RSVPForm.dart) |
 
 ## Installation
 
