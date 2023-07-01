@@ -9,15 +9,16 @@
 | 5 | Chat bot | [code](ChatBotUI.dart) |
 | 6 | Contact | [code](ContactApp.dart) |
 | 7 | Counter app | [code](CounterApp.dart) |
-| 8 | Num pad | [code](NumPad.dart) |
-| 9 | Watch | [code](Watch.dart) |
-| 10 | Music App | [code](MusicAppUI.dart) |
-| 11 | Navigation Drawer | [code](NavigationDrawerUI.dart) |
-| 12 | Firebase Authentication | [code](FirebaseAuth.dart) |
-| 13 | Slider Widget | [code](SliderWidget.dart) |
-| 14 | Quiz App | [code](QuizApp.dart) |
-| 15 | Notepad | [code](Notepad.dart) |
-| 16 | RSVP form | [code](RSVPForm.dart) |
+| 8 | News app | [code](NewsApp.dart) |
+| 9 | Num pad | [code](NumPad.dart) |
+| 10 | Watch | [code](Watch.dart) |
+| 11 | Music App | [code](MusicAppUI.dart) |
+| 12 | Navigation Drawer | [code](NavigationDrawerUI.dart) |
+| 13 | Firebase Authentication | [code](FirebaseAuth.dart) |
+| 14 | Slider Widget | [code](SliderWidget.dart) |
+| 15 | Quiz App | [code](QuizApp.dart) |
+| 16 | Notepad | [code](Notepad.dart) |
+| 17 | RSVP form | [code](RSVPForm.dart) |
 
 ## Installation
 
