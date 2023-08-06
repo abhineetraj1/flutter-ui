@@ -24,6 +24,7 @@
 | 15 | Quiz App | [code](code/QuizApp.dart) |
 | 16 | Notepad | [code](code/Notepad.dart) |
 | 17 | RSVP form | [code](code/RSVPForm.dart) |
+| 18 | Mahindra SUVs | [code](code/MahindraSUVs.dart) |
 
 ## Installation
 
@@ -45,6 +46,7 @@
 4. **Replace the *.dart file:**
    - Replace the default `lib/main.dart` file in your Flutter project with the updated Dart code provided.
    - You can either delete the existing `lib/main.dart` file and create a new one with the provided code or replace the contents of the existing file with the updated code.
+   - Also rename the replaced *.dart file with `main.dart`
 
 5. **Run the Flutter app:**
    - Connect an Android or iOS device, or start an emulator/simulator.
