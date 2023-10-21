@@ -25,6 +25,7 @@
 | 16 | Notepad | [code](code/Notepad.dart) |
 | 17 | RSVP form | [code](code/RSVPForm.dart) |
 | 18 | Mahindra SUVs | [code](code/MahindraSUVs.dart) |
+| 19 | Bank | [code](code/bank.dart) |
 
 ## Installation
 
