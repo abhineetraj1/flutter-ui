@@ -19,7 +19,8 @@
 | 15 | Quiz App | [code](QuizApp.dart) |
 | 16 | Notepad | [code](Notepad.dart) |
 | 17 | RSVP form | [code](RSVPForm.dart) |
-| 18 | Bank | [code](bank.dart) |
+| 18 | Mahindra SUVs | [code](code/MahindraSUVs.dart) |
+| 19 | Bank | [code](code/bank.dart) |
 
 ## Installation
 
